@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <img src='rudolph.jpg'></img>  
+        <img src='images/rudolph.jpg'></img>  
         <h1>
           Rudolph loose in Opaheke
         </h1>
